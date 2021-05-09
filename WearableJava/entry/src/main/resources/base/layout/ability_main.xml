@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DependentLayout
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    ohos:orientation="vertical">
+
+    <Text
+        ohos:id="$+id:mainText"
+        ohos:height="match_parent"
+        ohos:width="match_parent"
+        ohos:background_element="$color:White"
+        ohos:center_in_parent="true"
+        ohos:layout_alignment="horizontal_center"
+        ohos:text="Nice too meet you"
+        ohos:text_alignment="center"
+        ohos:text_color="$color:Blue_A700"
+        ohos:text_size="50"/>
+
+    <Button
+        ohos:id="$+id:mainButton"
+        ohos:height="60vp"
+        ohos:width="match_parent"
+        ohos:align_parent_bottom="true"
+        ohos:background_element="$color:Blue_A700"
+        ohos:text="跳转页面"
+        ohos:text_color="$color:White"
+        ohos:text_size="18fp"/>
+</DependentLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DependentLayout
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    ohos:orientation="vertical">
+    <Text
+        ohos:id="$+id:secondText"
+        ohos:height="match_parent"
+        ohos:width="match_parent"
+        ohos:background_element="$color:White"
+        ohos:center_in_parent="true"
+        ohos:layout_alignment="horizontal_center"
+        ohos:text="欢迎来到第二个页面"
+        ohos:text_alignment="center"
+        ohos:text_color="$color:Blue_A700"
+        ohos:text_size="50"/>
+    <Button
+        ohos:id="$+id:changeText"
+        ohos:height="40vp"
+        ohos:width="match_parent"
+        ohos:align_parent_top="true"
+        ohos:background_element="$color:Blue_A700"
+        ohos:text="修改文本"
+        ohos:text_color="$color:White"
+        ohos:text_size="18fp"/>
+    <Button
+        ohos:id="$+id:secondButton"
+        ohos:height="40vp"
+        ohos:width="match_parent"
+        ohos:align_parent_bottom="true"
+        ohos:background_element="$color:Blue_A700"
+        ohos:text="返回"
+        ohos:text_color="$color:White"
+        ohos:text_size="18fp"/>
+</DependentLayout>

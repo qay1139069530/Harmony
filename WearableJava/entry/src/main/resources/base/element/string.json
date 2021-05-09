@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "WearableJava"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Wearable_Empty Feature Ability"
+    },
+    {
+      "name": "mainability_HelloWorld",
+      "value": "Hello World"
+    },
+    {
+      "name": "secondability_description",
+      "value": "Java_Wearable_Empty Feature Ability"
+    },
+    {
+      "name": "secondability_HelloWorld",
+      "value": "Hello World"
+    }
+  ]
+}
